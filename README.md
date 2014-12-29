@@ -1,0 +1,3 @@
+nums = [2,5,9,15,22,99]
+nums.count_evens
+#=> "HI FRIEND, I AM ARRAY.  I HAVE 2 EVEN NUMBERS.  PRETTY AWESOME YES?  I LOVE YOU GOODBYE"
